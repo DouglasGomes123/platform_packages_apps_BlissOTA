@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><!--
  	Copyright (C) 2015 Matt Booth (Kryten2k35).
+ 	Copyright (C) 2016 BlissRoms Project
  
  	Licensed under the Attribution-NonCommercial-ShareAlike 4.0 International 
  	(the "License") you may not use this file except in compliance with the License.
@@ -14,11 +15,11 @@
 	limitations under the License.
 -->
 <Button xmlns:android="http://schemas.android.com/apk/res/android"
-        android:id="@+id/cancel_button"
-        style="?android:attr/borderlessButtonStyle"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:text="@string/cancel"
-        android:textColor="?attr/materialAccent"
-        android:textSize="12sp"/>
+    android:id="@+id/cancel_button"
+    style="?android:attr/borderlessButtonStyle"
+    android:layout_width="400dp"
+    android:layout_height="wrap_content"
+    android:layout_alignParentStart="true"
+    android:text="@string/cancel"
+    android:textColor="?attr/materialAccent"
+    android:textSize="12sp"/>
