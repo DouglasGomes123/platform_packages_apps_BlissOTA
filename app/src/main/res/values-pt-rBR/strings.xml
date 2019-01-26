@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Atualização</string>
+    <string name="changelog_url" translatable="false">http://downloads.blissroms.com/Changelog/CHANGELOG-bliss.txt</string>
+	
+    <string name="main_update_available">Nova atualização disponível!</string>
+    <string name="main_update_finished">Download completo</string>
+    <string name="main_no_update_available">Nenhuma atualização disponível</string>
+    <string name="main_update_filename">Nome do arquivo</string>
+    <string name="main_update_progress">Progresso download</string>
+    <string name="main_website">Site</string>
+    <string name="main_website_summary">Visite o site oficial da equipe Bliss</string>
+    <string name="main_donate">Doar</string>
+    <string name="main_donate_summary">Doe para equipe Bliss!</string>
+    <string name="main_tap_to_download">Toque para fazer o download</string>
+    <string name="main_download_completed_details">Toque para obter detalhes</string>
+    <string name="main_tap_to_view_progress">Toque para ver os progressos</string>
+    <string name="main_last_checked">Última verificação para atualização em:\n</string>
+    <string name="main_addon">Adicionais</string>
+    <string name="main_addon_summary">Navegar e baixar arquivos adicionais para esta ROM</string>
+    <!-- ROM Information -->
+    <string name="main_rom_information">Sobre seu dispositivo</string>
+    <string name="main_rom_name">Nome do sistema:</string>
+    <string name="main_rom_version">Versão de lançamento:</string>
+    <string name="main_rom_codename">ROM codename:</string>
+    <string name="main_rom_build_date">Data de compilação:</string>
+    <string name="main_android_version">Versão do Android:</string>
+    <string name="main_rom_developer">Mantenedor(a):</string>
+    <!-- Dialogs -->
+    <string name="main_not_compatible_title">Esperar!</string>
+    <string name="main_not_compatible_message">A atual configuração da ROM não está configurada para rodar com o BlissOTA. Entre em contato com o mantenedor da ROM para corrigir esse problema.</string>
+    <string name="main_not_connected_title">Não conectado</string>
+    <string name="main_not_connected_message">Você não está conectado a qualquer rede. Por favor, habilitar rede móvel ou Wi-Fi e tente novamente.</string>
+    <string name="main_playstore_title">BitCoin</string>
+    <string name="main_playstore_message">Você não tem nenhum aplicativo disponível para lidar com o \"bitcoin:\"\n\nVocê gostaria de pesquisar na Google Play Store para encontrar um?</string>
+    <!-- Content Descriptions -->
+    <string name="main_button_icon">Ícone de botão</string>
+    <string name="main_dev_website_icon">Ícone do site do desenvolvedor</string>
+    <string name="main_actionbar_button">ActionBar botões</string>
+    <!-- Toast -->
+    <string name="main_release_ignored">Lançamento ignorada.</string>
+    <!-- Generic strings -->
+    <string name="cancel">Cancelar</string>
+    <string name="ok">OK</string>
+    <string name="delete">Excluir</string>
+    <string name="back">Voltar</string>
+    <string name="help">Ajuda</string>
+    <string name="loading">A carregar&#8230;</string>
+    <string name="filename_separator">-</string>
+    <string name="download">Baixar</string>
+    <string name="install">Instalar</string>
+    <string name="downloading">Baixando&#8230;</string>
+    <string name="rebooting">Reiniciando&#8230;</string>
+    <string name="information">Informações</string>
+    <string name="update_available">Atualização da ROM disponível</string>
+    <string name="ignore">Ignorar</string>
+    <string name="donate">Doar</string>
+    <string name="finished">Terminou</string>
+    <string name="settings">Configurações</string>
+    <string name="done">Feito</string>
+    <string name="delete_confirm">Tem certeza que deseja excluir este arquivo?</string>
+    <string name="permission_not_granted_dialog_title">Permissões não concedidas</string>
+    <string name="permission_not_granted_dialog_message">Por favor, conceda permissões de armazenamento BlissOTA ou o aplicativo não funcionará!</string>
+    <string name="dialog_ok">OK</string>
+    <!-- About Strings -->
+    <string name="about_title">Sobre BlissOTA</string>
+    <string name="about_preferences_summary">Os contribuintes que trabalharam sobre este aplicativo!</string>
+    <string name="about_credits_title">Créditos</string>
+    <string name="about_credits_summary">Resumo de créditos</string>
+    <string name="about_version_title">Versão</string>
+    <string name="about_app_version">Versão do aplicativo:</string>
+    <string name="changelog">Servidor do changelog</string>
+    <string name="changelog_summary">Ver os changelog do aplicativo</string>
+    <string name="changelog_error">Erro ao ler changelog</string>
+    <!-- Changelog Strings -->
+    <string name="menu_settings">Configurações</string>
+    <string name="menu_info">Changelog do servidor</string>
+    <!-- Addon Strings -->
+    <string name="addons_created_on">Criado:</string>
+    <string name="addons_updated_on">Atualizado:</string>
+    <!-- Available Strings -->
+    <string name="available_update_name">Atualize o nome e a informação do arquivo aqui</string>
+    <string name="available_progress_counter">0MB / 0MB</string>
+    <string name="available_changelog_title">Changelog</string>
+    <string name="available_changelog_content">Seu Changelog estar aqui</string>
+    <string name="available_changelog">Changelog</string>
+    <string name="available_check_md5">Verifique o MD5</string>
+    <string name="available_ready_to_install">Pronto para instalar</string>
+    <string name="available_md5_ok">MD5 correspondido</string>
+    <string name="available_md5_failed">MD5 falhou</string>
+    <string name="available_checking_md5">Verificando o MD5&#8230;</string>
+    <string name="available_downloading">Baixando&#8230;</string>
+    <string name="are_you_sure">Tem certeza?</string>
+    <string name="available_delete_confirm_message">Tem certeza que deseja excluir o arquivo baixado?</string>
+    <string name="available_reboot_confirm">Gostaria de reiniciar agora?</string>
+    <string name="available_url_error">Erro de URL: Por favor, consulte o desenvolvedor da ROM</string>
+    <string name="available_reboot_manual_title">Por favor reinicie agora</string>
+    <string name="available_reboot_manual_message">Por favor reinicie para a recuperação e instale sua ROM.\n\nque você pode encontrá-lo em /sdcard/Downloads</string>
+    <string name="available_wrong_network_title">Rede errada selecionada</string>
+    <string name="available_wrong_network_message">Você está tentando fazer o download através de sua rede móvel, e as configurações só permitem acesso ao Wi-Fi. Por favor, altere as configurações em conformidade.</string>
+    <!-- Preferences -->
+    <string name="preferences_name">Configurações</string>
+    <string name="twrp_ors_title">Permitir OpenRecoveryScript</string>
+    <string name="twrp_ors_summary">Ative a instalação automática da atualização baixada.</string>
+    <string name="twrp_ors_delete_after">Excluir depois de instalar</string>
+    <string name="twrp_ors_delete_after_summary">Script deve remover a atualização após a atualização?</string>
+    <string name="twrp_ors_install_prefs">Configuração de OpenRecoveryScript</string>
+    <string name="twrp_ors_install_prefs_summary">Configurar as preferências de instalação OpenRecoveryScript</string>
+    <string name="twrp_ors_wipe_data">Limpar dados</string>
+    <string name="twrp_ors_wipe_cache">Limpe o Cache</string>
+    <string name="twrp_ors_wipe_dalvik">Wipe Dalvik</string>
+    <string name="notifications_title">Notificações</string>
+    <string name="background_service_summary">Verificar automaticamente se há atualizações e mostrar uma notificação, se houver uma disponível</string>
+    <string name="background_frequency">Atualizar frequência de verificação</string>
+    <string name="background_30mins">30 minutos</string>
+    <string name="background_60mins">60 minutos</string>
+    <string name="background_2hours">2 horas</string>
+    <string name="background_3hours">3 horas</string>
+    <string name="background_6hours">6 horas</string>
+    <string name="background_12hours">12 horas</string>
+    <string name="background_24hours">Uma vez por dia</string>
+    <string name="background_2days">Em dois dias</string>
+    <string name="background_3days">A cada três dias</string>
+    <string name="background_7days">Uma vez por semana</string>
+    <string name="theme_title">Tema do Aplicativo</string>
+    <string name="mobile_wifi_network">Rede</string>
+    <string name="mobile_wifi_title">Atualizar em rede</string>
+    <string name="wifi_network_only">Apenas Wi-Fi</string>
+    <string name="mobile_or_wifi">Rede móvel ou Wi-Fi</string>
+    <string name="theme">Tema seleccionado</string>
+    <string name="theme_config">Configurações do tema</string>
+    <string name="theme_dark">Material escuro</string>
+    <string name="theme_light">Material claro</string>
+    <string name="notifications_sound">Som</string>
+    <string name="notifications_vibrate">Vibrar</string>
+    <string name="silent_ringtone">Em silêncio</string>
+    <string name="notification_ignore_release_title">Ignorar a atualização</string>
+    <string name="notification_ignoring_release">Atualmente pulando a versão: </string>
+    <string name="notification_not_ignoring_release">Você não está pulando nenhuma atualização</string>
+</resources>
